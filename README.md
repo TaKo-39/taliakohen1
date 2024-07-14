@@ -9,7 +9,8 @@ As well as recommendations to close the gap. It also investigated external predi
 Dataset:
 https://www.kaggle.com/datasets/fedesoriano/gender-pay-gap-dataset
 
-https://github.com/user-attachments/assets/cd400695-cf01-42f4-bd9e-f7d88e8caefb
+
+![Graph](https://github.com/user-attachments/assets/f62ff4cb-be82-4d04-918b-4cded07e4ebb)
 
 Studying with Datacamp allowed me to be a more confident Data Scientist. I came from Electrical Engineering and this 
 allowed me to cover basic python and python for data science in a formal way, detail by detail.  It gave me the tools to do
