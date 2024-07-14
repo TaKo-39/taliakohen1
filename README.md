@@ -10,6 +10,8 @@ As well as recommendations to close the gap. It also investigated external predi
 
 Dataset:
 https://www.kaggle.com/datasets/fedesoriano/gender-pay-gap-dataset
+/kaggle/input/gender-pay-gap-dataset/CurrentPopulationSurvey.csv
+/kaggle/input/gender-pay-gap-dataset/PanelStudyIncomeDynamics.csv
 
 ![Graph](https://github.com/user-attachments/assets/ca8e6482-75a6-4ba4-89a7-6820a55c47aa)
 
